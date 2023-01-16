@@ -63,6 +63,7 @@ body {
   justify-content: center;
   align-items: center;
   flex: 1;
+  gap: 8px;
 }
 
 button {
